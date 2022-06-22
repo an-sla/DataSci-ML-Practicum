@@ -1,4 +1,4 @@
-# Yandex Practicum — Professional Certificate in Data Science
+# Yandex Practicum, Professional Certificate in Data Science
 
 ## _This repository is currently being migrated to GitHub._
 
@@ -12,7 +12,7 @@ The projects were completed in Russian, but please feel welcome to review my cod
 
 ## _Course Projects_
 
-| <img width=900/><span class="align-top"> Project Title <br /></span></img><br /> | <img width=900/><span class="align-top"> Libraries and Modules Used               <br /></span></img><br />
+| <img width=1100/><span class="align-top"> Project Title <br /></span></img><br /> | <img width=900/><span class="align-top"> Libraries and Modules Used               <br /></span></img><br />
 | -------------------------------------- | ---------------------------------------------- 
 | 1\. [Data Preprocessing](https://github.com/an-sla/DataSci-ML-Practicum/blob/main/Data-preprocessing%20(Topic%201)/project-topic1-(data-preprocessing).ipynb)                    | pandas, iPython, pymystem3 _(Mystem)_, math, collections 
 | 2\. Exploratory Data Analysis (EDA)    | pandas, Matplotlib pyplot, math               
