@@ -5,9 +5,7 @@
 ![pra](https://user-images.githubusercontent.com/101647250/174258608-cab4a61d-3680-4510-bc6f-c8b58fac50fa.jpg)
 
 
-This repository will contain 12 completed projects from the [Yandex Practicum Professional Certificate in Data Science](https://practicum.com/data-scientist/) in the format of Jupyter Notebooks. These projects include industry-level analysis, models, and solutions to DS and ML problems based on real business datasets.
-
-The projects were completed in Russian, but please feel welcome to view my code, visualisations, and metrics results.
+This repository will contain 12 completed projects from the [Yandex Practicum Professional Certificate in Data Science](https://practicum.com/data-scientist/) in the format of Jupyter Notebooks. These projects include industry-level analysis, models, and solutions to DS and ML problems based on real business datasets. The projects were completed in Russian, but please feel welcome to view my code, visualisations, and metrics results.
 
 
 ## _Course Projects_
