@@ -10,7 +10,7 @@ This repository will contain 12 completed projects from the [Yandex Practicum Pr
 
 ## _Course Projects_
 
-| <img width=1300/><span class="align-top"> Project Title <br /></span></img><br /> | <img width=500/><span class="align-top"> Libraries, Modules and Model Classes Used               <br /></span></img><br />
+| <img width=1300/><span class="align-top"> Project Title <br /></span></img><br /> | <img width=800/><span class="align-top"> Libraries, Modules and Model Classes Used               <br /></span></img><br />
 | -------------------------------------- | ---------------------------------------------- 
 | 1\. [Data Preprocessing](https://github.com/an-sla/DataSci-ML-Practicum/blob/main/Data-preprocessing%20(Topic%201)/project-topic1-(data-preprocessing).ipynb)                    | **pandas**, **iPython**, **pymystem3** _(Mystem)_, **math**, **collections**
 | 2\. Exploratory Data Analysis (EDA)    | **pandas**, **Matplotlib** (pyplot), **math**              
