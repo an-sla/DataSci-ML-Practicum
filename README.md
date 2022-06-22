@@ -1,4 +1,4 @@
-# Yandex Practicum, Professional Certificate in Data Science
+# Yandex Practicum: Data Science Professional Certificate
 
 ## _This repository is currently being migrated to GitHub._
 
